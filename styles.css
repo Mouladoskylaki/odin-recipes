@@ -1,5 +1,28 @@
 body {
-    background-color: rgb(204, 224, 224);
+    background-color: rgb(244, 252, 252);
     font-family: sans-serif, serif;
-    align-items: center;
+    ;
+}
+
+ul, ol {
+    background-color: rgb(212, 220, 224);
+    padding-top: 5px;
+    padding-bottom: 5px;
+    max-width: 700px;
+}
+
+h3 {
+    font-style: italic;
+}
+
+p {
+    max-width: 740px;
+    display: flex;
+    justify-content: space-between;
+    
+    
+    
+}
+img {
+    border-radius: 10px;
 }
